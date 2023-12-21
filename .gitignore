@@ -1,0 +1,12 @@
+__pycache__/
+venv/
+.venv/
+bark_train/
+*.wav
+_temp/
+models/
+wandb/
+*_output/
+Retrieval-based-Voice-Conversion-WebUI/
+train_rvc.ipynb
+*.pt
